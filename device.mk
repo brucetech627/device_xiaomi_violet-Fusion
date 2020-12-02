@@ -28,7 +28,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/audio/sound_trigger_mixer_paths.xml:$(TARGET_COPY_OUT_VENDOR)/etc/sound_trigger_mixer_paths.xml
 
 # Build Type
-CUSTOM_BUILD_TYPE:= OFFICIAL
+CUSTOM_BUILD_TYPE:= UNOFFICIAL
 
 # Fingerprint
 PRODUCT_PACKAGES += \
